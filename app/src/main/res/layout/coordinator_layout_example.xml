@@ -58,7 +58,13 @@
                 android:id="@+id/content"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Conteúdo que rola junto com a AppBar."
+                android:text="Keller, um mestre da dissimulação, passou anos se preparando para essa missão. Ele aprendeu a falar alemão fluentemente, estudou a cultura e os comportamentos dos altos oficiais nazistas e desenvolveu uma rede de informantes em toda a Alemanha. Em 1943, ele finalmente se infiltrou no círculo interno de Hitler como um oficial da Gestapo.
+
+Usando sua posição, Keller começou a minar a confiança dos generais de Hitler entre si, criando desconfiança e caos. Ele também sabotou operações militares críticas ao fornecer coordenadas falsas e informações estratégicas erradas. Em 1944, Keller conseguiu plantar explosivos no quartel-general de Hitler, tudo isso sem levantar suspeitas.
+
+O momento da verdade chegou quando Keller, disfarçado, entrou na sala de reuniões da operação Valkiria, onde sabia que a presença de Hitler seria garantida. Com uma precisão calculada, ele posicionou os explosivos em um local estratégico próximo ao ditador. Saindo rapidamente do local, Keller detonou os explosivos remotamente, causando uma explosão devastadora que abalou a confiança de toda a liderança nazista.
+
+Com Hitler neutralizado, Keller revelou sua verdadeira identidade à resistência alemã, que estava pronta para tomar o controle. Sua bravura e inteligência foram celebradas como a chave para o fim da guerra, trazendo paz e liberdade a um mundo marcado pela tirania."
                 android:textSize="18sp" />
 
             <!-- Adicione mais conteúdo aqui para rolagem -->

@@ -14,10 +14,10 @@
 
     <!-- Botão central sobreposto à imagem -->
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonAaa"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="top|center"
-        android:text="Clique Aqui" />
+        android:text="Gerador de carinha" />
 
 </FrameLayout>

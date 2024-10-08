@@ -15,135 +15,64 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Texto 1"
-            android:textSize="18sp" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Texto 2"
+            android:text="A Religião de Keller"
             android:textSize="18sp"
             android:layout_marginTop="16dp" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Texto 3"
+            android:text="
+
+1. O Deus Keller: Keller é o deus da sabedoria e da transformação. Ele é representado por uma figura luminosa que guia seus seguidores através do autoconhecimento e do progresso espiritual. Keller ensina que a verdade está dentro de cada um e que a jornada para encontrá-la é a maior prova de fé.
+
+\n2. Princípios Fundamentais:
+
+\nAutoconhecimento: Acredita-se que todos devem buscar o entendimento profundo de si mesmos para alcançar a iluminação.
+
+\nTransformação: Keller incentiva seus seguidores a se reinventarem constantemente, adaptando-se e evoluindo com o tempo.
+
+\nHarmonia: Viver em paz consigo mesmo e com os outros é essencial para honrar Keller.
+
+\n3. Rituais e Práticas:
+
+\nMeditação Diária: Os seguidores dedicam um tempo todos os dias para meditar e refletir sobre suas ações e pensamentos.
+
+\nRitual da Transformação: Realizado mensalmente, este ritual envolve atividades simbólicas como a troca de objetos pessoais entre os seguidores, simbolizando a mudança e o crescimento.
+
+\nFesta da Sabedoria: Celebrada anualmente, onde os ensinamentos de Keller são compartilhados através de histórias e palestras, e novos membros são iniciados na religião.
+
+\n4. Símbolos Sagrados:
+
+\nLuz: Representa a clareza e a sabedoria divina de Keller.
+
+\nEspiral: Simboliza a jornada contínua de autoconhecimento e transformação.
+
+\n5. Textos Sagrados: Os ensinamentos de Keller são compilados no ''Livro da Clareza'', um texto sagrado que guia os seguidores em suas práticas diárias e oferece conselhos para a vida.
+
+\n6. Comunidade: A religião de Keller valoriza a comunidade e a troca de experiências entre seus membros. As reuniões semanais são momentos de compartilhamento e apoio mútuo.
+
+\nKeller promete sabedoria e crescimento constante para seus seguidores, guiando-os através das adversidades da vida com luz e clareza."></TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Gostou?"
             android:textSize="18sp"
             android:layout_marginTop="16dp" />
 
         <Button
+            android:id="@+id/button_no"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Botão 1"
+            android:text="Não"
             android:layout_marginTop="16dp" />
 
         <Button
+            android:id="@+id/button_yes"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Botão 2"
-            android:layout_marginTop="16dp" />
-
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Botão 3"
-            android:layout_marginTop="16dp" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Texto 1"
-            android:textSize="18sp" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Texto 2"
-            android:textSize="18sp"
-            android:layout_marginTop="16dp" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Texto 3"
-            android:textSize="18sp"
-            android:layout_marginTop="16dp" />
-
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Botão 1"
-            android:layout_marginTop="16dp" />
-
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Botão 2"
-            android:layout_marginTop="16dp" />
-
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Botão 3"
-            android:layout_marginTop="16dp" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Texto 1"
-            android:textSize="18sp" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Texto 2"
-            android:textSize="18sp"
-            android:layout_marginTop="16dp" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Texto 3"
-            android:textSize="18sp"
-            android:layout_marginTop="16dp" />
-
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Botão 1"
-            android:layout_marginTop="16dp" />
-
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Botão 2"
-            android:layout_marginTop="16dp" />
-
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Botão 3"
-            android:layout_marginTop="16dp" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Texto 1"
-            android:textSize="18sp" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Texto 2"
-            android:textSize="18sp"
-            android:layout_marginTop="16dp" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Texto 3"
-            android:textSize="18sp"
+            android:text="Sim"
             android:layout_marginTop="16dp" />
 
         <!-- Adicione mais elementos para fazer o conteúdo rolar -->

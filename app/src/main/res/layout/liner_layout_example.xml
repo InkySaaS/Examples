@@ -10,27 +10,27 @@
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Texto 1" />
+        android:text="Meus links (prometo que não tem vírus)" />
 
     <Button
-        android:id="@+id/button1"
+        android:id="@+id/button_git"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Botão 1" />
+        android:text="GitHub" />
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/button_in"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Botão 1" />
+        android:text="Instagram" />
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/button_inv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Botão 1" />
+        android:text="Instagram(antigo)" />
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/button_tw"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Botão 1" />
+        android:text="Twitter/X" />
 
 </LinearLayout>

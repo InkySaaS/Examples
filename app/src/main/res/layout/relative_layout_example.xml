@@ -5,18 +5,18 @@
     android:layout_height="match_parent">
 
     <TextView
-        android:id="@+id/textView1"
+        android:id="@+id/textChange"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_toRightOf="@id/button1"
+        android:layout_toRightOf="@id/buttonLol"
         android:layout_alignParentBottom="true"
         android:layout_alignParentTop="true"
-        android:text="Texto acima" />
+        android:text="Texto que muda" />
 
     <Button
-        android:id="@+id/button1"
+        android:id="@+id/buttonLol"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Botão abaixo do texto" />
+        android:text="Botão que muda o texto" />
 
 </RelativeLayout>
